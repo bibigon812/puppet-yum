@@ -1,0 +1,6 @@
+---
+lookup_options:
+  yum::repos:
+    merge:
+      strategy: deep
+yum::repos: {}
