@@ -1,10 +1,12 @@
 {
   "name": "bibigon812-yum",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Dmitriy Yakovlev",
-  "summary": "",
+  "summary": "Manages yum repos",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/bibigon812/puppet-yum",
+  "issues_url": "https://github.com/bibigon812/puppet-yum/issues",
+  "project_page": "https://github.com/bibigon812/puppet-yum",
   "dependencies": [
 
   ],
