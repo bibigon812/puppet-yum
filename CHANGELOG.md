@@ -10,4 +10,4 @@ All notable changes to this project will be documented in this file.
 
 **Known Issues**
 
-[Unreleased]: https://github.com/bibigon812/puppet-yum/compare/v.1.0.0...master
+[Unreleased]: https://github.com/bibigon812/puppet-yum/compare/v1.0.0...master
