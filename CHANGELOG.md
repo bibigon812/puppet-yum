@@ -2,10 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
-## Release 0.1.0
+## [1.0.0] - 2018-09-28
 
 **Features**
 
 **Bugfixes**
 
 **Known Issues**
+
+[Unreleased]: https://github.com/bibigon812/puppet-yum/compare/v.1.0.0...master
